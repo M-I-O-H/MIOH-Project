@@ -1,0 +1,13 @@
+### Content Review and Legal Compliance
+All submissions will be reviewed to ensure compliance with the project’s ethical guidelines and legal requirements. Contributors must respect intellectual property rights and data privacy laws. Any content found in violation of these standards will be subject to removal.
+
+### Share-Alike with Attribution
+Contributors are free to share and adapt the content derived from the Philosophy of M.I.O.H. OR that created from The Philosophy of M.I.O.H, provided that they:
+1. Credit the original creator [M.I.O.H] and ChatGPT.
+2. Distribute their contributions under the same terms as this original license.
+3. Ensure that derivative works maintain the integrity of the core philosophy and do not alter the key principles.
+
+### Ethical Use of AI
+All contributors must disclose the use of AI tools, such as ChatGPT, in their submissions. Use of AI should adhere to OpenAI’s terms of service and respect ethical guidelines. AI is intended to assist in enhancing original thought and creativity, not to replace it.
+
+

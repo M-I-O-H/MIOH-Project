@@ -1,0 +1,3 @@
+### Ethical Use of AI
+All contributors must disclose the use of AI tools, such as ChatGPT, in their submissions. Use of AI should adhere to OpenAI’s terms of service and respect ethical guidelines. AI is intended to assist in enhancing original thought and creativity, not to replace it.
+
